@@ -1,4 +1,19 @@
 <p align="center">
+  <a href="https://github.com/GaneshChidambar/AI-Human-Collaboration-Protocol/stargazers">
+    <img src="https://img.shields.io/github/stars/GaneshChidambar/AI-Human-Collaboration-Protocol?color=yellow&style=flat&logo=github" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/GaneshChidambar/AI-Human-Collaboration-Protocol/forks">
+    <img src="https://img.shields.io/github/forks/GaneshChidambar/AI-Human-Collaboration-Protocol?color=brightgreen&style=flat&logo=github" alt="GitHub forks">
+  </a>
+  <a href="https://github.com/GaneshChidambar/AI-Human-Collaboration-Protocol/commits/main">
+    <img src="https://img.shields.io/github/last-commit/GaneshChidambar/AI-Human-Collaboration-Protocol?color=blueviolet&style=flat" alt="Last commit">
+  </a>
+  <a href="https://vscode.dev/github/GaneshChidambar/AI-Human-Collaboration-Protocol">
+    <img src="https://img.shields.io/badge/Open%20in-VS%20Code-blue?logo=visualstudiocode" alt="Open in VS Code">
+  </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/GaneshChidambar/AI-Human-Collaboration-Protocol/releases/latest">
     <img src="https://img.shields.io/github/v/release/GaneshChidambar/AI-Human-Collaboration-Protocol?color=%230072C6&label=version&logo=github" alt="Latest Release">
   </a>
