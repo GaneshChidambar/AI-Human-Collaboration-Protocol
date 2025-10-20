@@ -1,3 +1,18 @@
+<p align="center">
+  <a href="https://github.com/GaneshChidambar/AI-Human-Collaboration-Protocol/releases/latest">
+    <img src="https://img.shields.io/github/v/release/GaneshChidambar/AI-Human-Collaboration-Protocol?color=%230072C6&label=version&logo=github" alt="Latest Release">
+  </a>
+  <a href="https://github.com/GaneshChidambar/AI-Human-Collaboration-Protocol/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/GaneshChidambar/AI-Human-Collaboration-Protocol?color=%2300A300&label=license&logo=open-source-initiative" alt="License">
+  </a>
+  <a href="https://github.com/GaneshChidambar/AI-Human-Collaboration-Protocol/blob/main/FetchToPDF.ps1">
+    <img src="https://img.shields.io/badge/PowerShell-Script-blue?logo=powershell" alt="PowerShell Script">
+  </a>
+  <a href="https://github.com/GaneshChidambar/AI-Human-Collaboration-Protocol/raw/main/docs/Human_Assist_Browser_Loop.pdf">
+    <img src="https://img.shields.io/badge/Infographic-PDF-orange?logo=adobeacrobatreader" alt="Infographic PDF">
+  </a>
+</p>
+
 # AI-Human-Collaboration-Protocol
 
 A practical, compliant workflow for **human–AI co-browsing** when agents encounter restricted or dynamic websites (e.g., `robots.txt`, Cloudflare, paywalls, auth gates).
