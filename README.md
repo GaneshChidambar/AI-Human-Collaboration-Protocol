@@ -42,7 +42,10 @@ Autonomous agents often fail when encountering restricted or dynamic websites du
 - robots.txt compliance blocks
 - JavaScript-rendered content (e.g., Cloudflare)
 - Paywalls or authentication gates
-Historically, this caused workflow termination — the agent could not proceed, losing context and requiring the user to restart.
+
+Historically, this caused workflow termination 
+— the agent could not proceed, losing context and requiring the user to restart.
+
 This protocol replaces hard failures with a **human-assisted handoff**:
 - The agent pauses and surfaces the **URLs** it cannot fetch.
 - The **user** retrieves content manually (e.g., print to PDF).
