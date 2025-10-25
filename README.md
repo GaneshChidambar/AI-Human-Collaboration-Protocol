@@ -38,7 +38,12 @@ A practical, compliant workflow for **human–AI co-browsing** when agents encou
 ---
 
 ## Why this exists
-Most autonomous agents fail closed when blocked by site policies or JS-rendered content. This protocol replaces hard failures with a **human-assisted handoff**:
+Autonomous agents often fail when encountering restricted or dynamic websites due to:
+- robots.txt compliance blocks
+- JavaScript-rendered content (e.g., Cloudflare)
+- Paywalls or authentication gates
+Historically, this caused workflow termination — the agent could not proceed, losing context and requiring the user to restart.
+This protocol replaces hard failures with a **human-assisted handoff**:
 - The agent pauses and surfaces the **URLs** it cannot fetch.
 - The **user** retrieves content manually (e.g., print to PDF).
 - The agent **resumes** from the same context with proper provenance and citations.
